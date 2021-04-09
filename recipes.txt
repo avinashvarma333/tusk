@@ -5,4 +5,8 @@ welocome to kitchen
 kheer
 pasta
 chicken
+
+beans
+pizza
+
 thank you
